@@ -1,4 +1,4 @@
- NIFTY Data Analysis Project
+ Automated Data Processing Pipeline
 
  Overview
 This project focuses on analyzing NIFTY (National Stock Exchange of India) market data using Python. The analysis is performed using Jupyter notebooks and includes various data processing, visualization, and analysis techniques.
