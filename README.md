@@ -5,7 +5,7 @@ This project focuses on analyzing NIFTY (National Stock Exchange of India) marke
 
 Project Structure
 ```
-NIFTY_Data_Analysis/
+Automated Data Processing/
 ├── NIFTY_Data_Analysis.ipynb    # Main analysis notebook
 ├── testcase86_error_solve_.ipynb # Error handling and testing notebook
 └── Data/                        # Directory containing market data
